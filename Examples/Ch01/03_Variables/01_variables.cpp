@@ -2,7 +2,11 @@
 // when code is using uninitialized variables. Some compilers
 // will generate code that will report an error at run time.
 
-import std;
+// import std;
+// NOTE  Moe
+import <print>;
+import <iostream>;
+
 
 using namespace std;
 

@@ -1,4 +1,7 @@
-import std;
+// import std;
+
+import <iostream>;
+import <print>;
 
 int main()
 {
